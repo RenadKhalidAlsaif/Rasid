@@ -1,0 +1,16 @@
+[
+  {
+    "rule": "velocity",
+    "action": "loosen",
+    "current": 3,
+    "proposed": 4,
+    "reason": "80% of flags were on clean forms",
+    "auto_apply": false
+  },
+  {
+    "rule": "all",
+    "action": "review",
+    "reason": "1 confirmed fraud case(s) passed every rule",
+    "auto_apply": false
+  }
+]

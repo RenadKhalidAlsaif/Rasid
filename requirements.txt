@@ -1,0 +1,11 @@
+opencv-python
+pytesseract
+pandas
+streamlit
+# DeepSeek-OCR (optional, needs NVIDIA GPU). Install torch from the PyTorch index that matches your CUDA version.
+transformers==4.46.3
+tokenizers==0.20.3
+einops
+addict
+easydict
+pillow
